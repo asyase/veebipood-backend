@@ -1,0 +1,9 @@
+target/
+.git/
+.idea/
+.claude/
+.mvn/wrapper/maven-wrapper.jar
+*.iml
+.env
+HELP.md
+postman/
